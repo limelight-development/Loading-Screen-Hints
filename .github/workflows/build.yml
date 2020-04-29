@@ -14,10 +14,10 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       - name: Build
-        run: php build/builder.php
+        run: cp index.php index.orig.php && php build/builder.php
       - name: Check Changes
         id: change
-        run: (git diff index.php && echo "::set-output name=changed::false") || echo "::set-output name=changed::true"
+        run: (diff index.php index.orig.php && echo "::set-output name=changed::false") || echo "::set-output name=changed::true"
       - name: Commit & Push
         if: steps.change.outputs.changed == 'true'
         run: |
