@@ -2,6 +2,10 @@ name: Builder
 
 on:
   push:
+    paths:
+      - 'source/**'
+      - index.php.src
+      - .github/workflows/build.yml
     branches:
       - master
     tags-ignore:
