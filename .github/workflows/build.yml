@@ -1,0 +1,28 @@
+name: Builder
+
+on:
+  push:
+    branches:
+      - master
+    tags-ignore:
+      - '*'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Build
+        run: php build/builder.php
+      - name: Check Changes
+        id: change
+        run: (git diff index.php && echo "::set-output name=changed::false") || echo "::set-output name=changed::true"
+      - name: Commit & Push
+        if: steps.change.outputs.changed == 'true'
+        run: |
+         git config --global user.name 'Hints Builder'
+         git config --global user.email 'internet@limelightgaming.net'
+         git add "index.php"
+         git commit -m "Updated index.php"
+         git push
