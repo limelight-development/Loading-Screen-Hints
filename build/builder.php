@@ -23,4 +23,4 @@ foreach ($files as $file){
 
 $body = file_get_contents(__DIR__ . '/../index.php.src');
 $body = str_replace('/* OTHER_HINTS */', join("\n", $hints), $body);
-file_put_contents(__DIR__ . '/../built.php', $body);
+file_put_contents(__DIR__ . '/../index.php', $body);
