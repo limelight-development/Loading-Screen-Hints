@@ -171,4 +171,6 @@ $hints[] = ['Animation', 'Ben', 'Did you know? Our new animation menu is rebinda
 
 $hints[] = ['Clothing', 'Cheet', 'Missing a little something from your outfit? Press \'F1\', click \'Market\' and select \'Accessories\' on the dropdown menu for items like hats, scarves and much more!'];
 
+$hints[] = ['Test', 'Internet', "This is a hint. uwu.\ndab"];
+
 return $hints;
