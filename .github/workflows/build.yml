@@ -21,7 +21,7 @@ jobs:
         run: cp index.php index.orig.php && php build/builder.php
       - name: Check Changes
         id: change
-        run: (diff index.php index.orig.php && echo "::set-output name=changed::false") || echo "::set-output name=changed::true"
+        run: (diff index.php index.orig.php && echo "changed=false" >> "$GITHUB_OUTPUT") || echo "changed=true" >> "$GITHUB_OUTPUT"
       - name: Commit & Push
         if: steps.change.outputs.changed == 'true'
         run: |
