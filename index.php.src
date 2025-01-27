@@ -168,8 +168,6 @@ $hints[] = ['Animation', 'Kellekerell', 'Want to wave your hand or perform other
 $hints[] = ['Animation', 'SickBennyAlex', 'Need to stop an animation you\'re performing quickly? Try typing \'/stopanimation\' in the chat window!'];
 $hints[] = ['Animation', 'Dick', 'Did you know? We have a variety of new animations that you can perform by heading to \'Q Menu > Options > Animations\'.'];
 
-$hints[] = ['Clothing', 'Cheet', 'Missing a little something from your outfit? Press \'F1\', click \'Market\' and select \'Accessories\' on the dropdown menu for items like hats, scarves and much more!'];
-
 /* OTHER_HINTS */
 
 return $hints;
