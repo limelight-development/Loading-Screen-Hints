@@ -49,7 +49,7 @@ $hints[] = ['General', 'Zaidplays', 'Want to purchase something in-game? Go to F
 $hints[] = ['General', 'Zaidplays', 'Got weird sounds which might be broken? Run the \'stopsound\' command in console to stop them.'];
 $hints[] = ['General', 'Montyfatcat', 'Want to catch cooler fish? Level up your fishing by catching lots of Cod, buy a new kind of bait and start catching better fish.'];
 $hints[] = ['General', 'Ollie', 'Want to go in third person? Hold Control and tab or you can bind it to a new key by doing ‘bind <key> Chasecam’ in console!'];
-$hints[] = ['General', 'Vadar', 'Want to find helpful guides for in-game mechanics and commands? Head to limelightgaming.net and head to '\'Community > Help and Support > Guides\'];
+$hints[] = ['General', 'Vadar', 'Want to find helpful guides for in-game mechanics and commands? Head to limelightgaming.net and head to \'Community > Help and Support > Guides\''];
 $hints[] = ['General', 'Vadar', 'Is your detainee/hostage not listening to you? Use \'SHIFT + E\' to escort the handcuffed/hostaged person you are looking at.'];
 $hints[] = ['General', 'Vadar', 'Want to nudge someone to move along or add a little drama to a tense situation? Use \'E\' to push the person you are looking at.'];
 $hints[] = ['General', 'Vadar', 'You can now add favourite items to the F1 menu for ease of access, Use the \'+\' icon in the description box to do so.'];
@@ -86,7 +86,7 @@ $hints[] = ['Vehicles', 'Vadar', 'Keep to a set speed limit by typing \'/cruise\
 $hints[] = ['Vehicles', 'Vadar', 'Has some strange person just jumped in your vehicle with you? Try typing \'/eject\' in the chat window while in your vehicle to forcibly kick them out!'];
 $hints[] = ['Vehicles', 'Project', 'Did you know that cars still burn fuel when you get out of them? Use /engine while still in your vehicle to turn your engine off and do the same when you get back in your vehicle to turn it back on.'];
 $hints[] = ['Vehicles', 'Vadar', 'Got you vehicle stuck in a bit of an unusual spot? Try typing \'/unstuck\' to move it to a better location.'];
-$hints[] = ['Vehicles', 'Vadar', 'Want to move place an escorted person in or out of a vehicle? Use \'SHIFT + R\' to place the person you are escorting into the nearby vehicle's passenger seat.'];
+$hints[] = ['Vehicles', 'Vadar', 'Want to move place an escorted person in or out of a vehicle? Use \'SHIFT + R\' to place the person you are escorting into the nearby vehicle\'s passenger seat.'];
 $hints[] = ['Vehicles', 'Vadar', 'Wanted by the police? Use a fake licence plate obtained from a Black Market Dealer to change your registration! Use \'/removeplate\' to remove it afterwards'];
 $hints[] = ['Vehicles', 'Vadar', 'Want to change the look of your numberplate? use \'/plate <default,member1,member2,silver,gold>\' to do so! '];
 
