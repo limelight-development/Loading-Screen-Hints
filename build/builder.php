@@ -16,7 +16,7 @@ foreach ($files as $file){
 		return trim($line);
 	}, explode("\n", $text, 3));
 
-	$hints[] = '$hints[] = [' . var_export($category, true) . ', ' . var_export($author, true) . ', "' . strtr($body, ["\r\n" => '\n', "\n" => '\n', "\t" => '\t', "\"" => '\"', "'" => '\'']) . '"];';
+	$hints[] = '$hints[] = [' . var_export($category, true) . ', ' . var_export($author, true) . ', "' . strtr(trim($body), ["\r\n" => '\n', "\n" => '\n', "\t" => '\t', "\"" => '\"', "'" => '\'']) . '"];';
 }
 
 $body = file_get_contents(__DIR__ . '/../index.php.src');
