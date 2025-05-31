@@ -22,7 +22,7 @@ $hints[] = ['General', 'Nudelsalat im Panzer', 'Got no space left in your invent
 $hints[] = ['General', 'lad', 'Did you know? When you\'re down on the ground, you can use /me (text) and /it (text) to roleplay being injured in further detail.'];
 $hints[] = ['General', 'lad', 'Did you know? We have a build server where you can build as much as you like and then transfer it to the main server using your \'User Control Panel\' on the forums!'];
 $hints[] = ['General', 'Jeff Ford', 'Don\'t like what you\'re wearing or the way you look? Press F1, go to the \'Character\' tab and use the arrows at the bottom to change them!'];
-$hints[] = ['General', 'Taylor', 'Did you know we have Discord server? You can find a link to this at the top of our forums (limelightgaming.net).'];
+$hints[] = ['General', 'Taylor', 'Did you know we have Discord server? You can find a link to this at the top of our forums on limelightgaming.net.'];
 $hints[] = ['General', 'Vadar', 'Having problems with your weapon position? Use /weppos to move it!'];
 $hints[] = ['General', 'Vadar', 'You can show your ID to people in a variety of ways: /giveid, /showid and /passport are all options!'];
 $hints[] = ['General', 'Vadar', 'Pressing F1 in-game gives you access to our gamemode menu: from here you can purchase items, change jobs and much more!'];
@@ -57,7 +57,7 @@ $hints[] = ['General', 'Taylor', 'Seen a man down and the ambulance is stuck in 
 
 
 $hints[] = ['Forums', 'ForceGhost', 'Seen someone breaking the rules? Try posting an \'@\' in the chat window with a brief description of the rule breakage if a staff member is online, if not, report the player with evidence supporting this by visiting our forums (limelightgaming.net] and posting under the \'Player Reports\' Sub-Forum.'];
-$hints[] = ['Forums', 'Want to see what\'s been added or changed recently on the server? Head on over to our forums (limelightgaming.net], hover over the \'CityRP2\' tab and click \'Changelogs\' to learn more about these updates!'];
+$hints[] = ['Forums', 'Want to see what\'s been added or changed recently on the server? Head on over to our forums (limelightgaming.net), hover over the \'CityRP2\' tab and click \'Changelogs\' to learn more about these updates!'];
 $hints[] = ['Forums', 'Ben', 'Had an idea for something that we could add or change about the server? Head on over to our forums (limelightgaming.net) and post about it in the \'Suggestions\' Sub-Forum!'];
 $hints[] = ['Forums', 'Project', 'Unable to get in to the server due to crashing or timing out? Head on over to our forums (limelightgaming.net) and click on our \'Help and Support\' Sub-Forum to ask for some help!'];
 $hints[] = ['Forums', 'Montyfatcat', 'Want one of your own tips here? Suggest it on the forums. CityRP -> Suggestions -> Loading Screen Tips'];
@@ -108,7 +108,7 @@ $hints[] = ['Government', 'lad', 'As a Secret Service Agent, SWAT Unit, Police O
 $hints[] = ['Government', 'CMR99', 'Someone talking over the radio, but you have something important to say? Use the phrase \'Break Traffic\' to clear up the channel.'];
 $hints[] = ['Government', 'Wesley', 'Tired of constantly having to redo your Photon configuration? Hold \'Q\', Click on \'Utilities\', then \'Photon\' and finally \'Configurations\' after you have set the equipment on your vehicle to save it.'];
 $hints[] = ['Government', 'Vadar', 'Need a quick ride? Call a taxi by typing \'/taxi\' in the chat window to contact all online chauffeurs.'];
-$hints[] = ['Government', 'Vadar', 'Type \'/wanted (ID)\' in the chat window as a government member to broadcast a message stating that this specific player is wanted by the police.'];
+$hints[] = ['Government', 'Vadar', 'Type \'/wanted (ID]\' in the chat window as a government member to broadcast a message stating that this specific player is wanted by the police.'];
 $hints[] = ['Government', 'Vadar', 'While serving as President, type \'/passlist\' to list all pass holders given out by yourself.'];
 $hints[] = ['Government', 'Vadar', 'Being shot at as the police? Type \'/panic\' in the chat window to make a quick panic call. Alternatively you can purchase a spawnable panic button available via the market to place in a covert location.'];
 $hints[] = ['Government', 'Vadar', 'Spotted something illegal? Type \'/911\' in the chat window for an urgent response or for non-urgent use type \'/request\'.'];
