@@ -15,18 +15,18 @@ $hints[] = ['General', 'ForceGhost', 'Almost every item on the server can be bou
 $hints[] = ['General', 'ForceGhost', 'Some items need to be manufactured instead of being purchased! You can buy the schematics for these from the marketplace!'];
 $hints[] = ['General', 'ForceGhost', 'Hold C and right click on a variety of things to open up their context menus!'];
 $hints[] = ['General', 'ForceGhost', 'The server rules are available to read on our website as well as in the F1 menu! Make sure you read through them thoroughly and stick to them to avoid being punished!'];
-$hints[] = ['General', 'Montyfatcat', 'Struggling to think of a command or just looking for some assistance? Try using /help (message], an online RP Assistant will try to respond to you as soon as they can.'];
+$hints[] = ['General', 'Montyfatcat', 'Struggling to think of a command or just looking for some assistance? Try using /help (message), an online RP Assistant will try to respond to you as soon as they can.'];
 $hints[] = ['General', 'girty01', 'You can use /me to talk about yourself in the third person or /it to add more detail to a roleplay situation.'];
-$hints[] = ['General', 'Taylor', 'Want to make a decision but leave it up to chance? Use /roll (max number].'];
+$hints[] = ['General', 'Taylor', 'Want to make a decision but leave it up to chance? Use /roll (max number).'];
 $hints[] = ['General', 'Nudelsalat im Panzer', 'Got no space left in your inventory? Press F1, click on the tab marked \'Market\' and select \'Misc.\' from the list to buy more pockets!'];
-$hints[] = ['General', 'lad', 'Did you know? When you\'re down on the ground, you can use /me (text] and /it (text] to roleplay being injured in further detail.'];
+$hints[] = ['General', 'lad', 'Did you know? When you\'re down on the ground, you can use /me (text) and /it (text) to roleplay being injured in further detail.'];
 $hints[] = ['General', 'lad', 'Did you know? We have a build server where you can build as much as you like and then transfer it to the main server using your \'User Control Panel\' on the forums!'];
 $hints[] = ['General', 'Jeff Ford', 'Don\'t like what you\'re wearing or the way you look? Press F1, go to the \'Character\' tab and use the arrows at the bottom to change them!'];
 $hints[] = ['General', 'Taylor', 'Did you know we have Discord server? You can find a link to this at the top of our forums on limelightgaming.net.'];
 $hints[] = ['General', 'Vadar', 'Having problems with your weapon position? Use /weppos to move it!'];
 $hints[] = ['General', 'Vadar', 'You can show your ID to people in a variety of ways: /giveid, /showid and /passport are all options!'];
 $hints[] = ['General', 'Vadar', 'Pressing F1 in-game gives you access to our gamemode menu: from here you can purchase items, change jobs and much more!'];
-$hints[] = ['General', 'Vadar', 'Need to report a rule breakage to a staff member? Use @(message] to contact all the ones that are currently online.'];
+$hints[] = ['General', 'Vadar', 'Need to report a rule breakage to a staff member? Use @(message) to contact all the ones that are currently online.'];
 $hints[] = ['General', 'Ajit Pai', 'Did you know you can go prone? Double tap \'CTRL\' to do this and double tap it again to stand back up.'];
 $hints[] = ['General', 'Project', 'Annoyed of seeing who connects and disconnects? Open your chat, click on the \'filter\' button and check the \'join/leave\' box.'];
 $hints[] = ['General', 'Project', 'Need to be away for a while but want to stay on the server? Press F1, go to the \'Character\' tab, click through the list of jobs and select the \'AFK\' job!'];
@@ -37,8 +37,8 @@ $hints[] = ['General', 'Ajit Pai', 'You can use the \'Character\' tab of the F1 
 $hints[] = ['General', 'Taylor', 'Want to constantly send an /it command to everyone in a certain area? Use the IT Emitter Tool!'];
 $hints[] = ['General', 'Armard', 'Tired of randomly laying on the ground when you\'re trying to crouch? Hold the Q button, click the \'Utilities\' tab and click on \'Prone Options\' to change your settings to whatever you prefer.'];
 $hints[] = ['General', 'Ollie630', 'Unsure whether what you\'re doing is against the rules? Check on it by pressing F1 and clicking the tab labelled \'Rules\''];
-$hints[] = ['General', 'Montfatcat', 'Seen someone doing a cool RP and think they deserve a REP? Head to our forums (limelightgaming.net] and make a post under the \'REP Recommendations\' Sub-Forum.'];
-$hints[] = ['General', 'Montyfatcat', 'Want to announce you\'re new to the community? Head to our forums (limelightgaming.net] and make a post under the \'Newcomers\' Sub-Forum.'];
+$hints[] = ['General', 'Montfatcat', 'Seen someone doing a cool RP and think they deserve a REP? Head to our forums (limelightgaming.net) and make a post under the \'REP Recommendations\' Sub-Forum.'];
+$hints[] = ['General', 'Montyfatcat', 'Want to announce you\'re new to the community? Head to our forums (limelightgaming.net) and make a post under the \'Newcomers\' Sub-Forum.'];
 $hints[] = ['General', 'Riggs', 'Have a weapon out but want to put it on safety? Hold \'E\' and press \'R\' at the same time.'];
 $hints[] = ['General', 'Taylor', '\'Run, Forrest, Run!\' Use some steroids purchasable from a Doctor to keep your stamina up!'];
 $hints[] = ['General', 'Cooli', 'Want to see the roleplays our community has done, or upcoming events? Check the forums.'];
@@ -53,10 +53,11 @@ $hints[] = ['General', 'Vadar', 'Want to find helpful guides for in-game mechani
 $hints[] = ['General', 'Vadar', 'Is your detainee/hostage not listening to you? Use \'SHIFT + E\' to escort the handcuffed/hostaged person you are looking at.'];
 $hints[] = ['General', 'Vadar', 'Want to nudge someone to move along or add a little drama to a tense situation? Use \'E\' to push the person you are looking at.'];
 $hints[] = ['General', 'Vadar', 'You can now add favourite items to the F1 menu for ease of access, Use the \'+\' icon in the description box to do so.'];
+$hints[] = ['General', 'Taylor', 'Seen a man down and the ambulance is stuck in traffic? You can attempt to revive a downed player using \'CTRL + E\'.'];
 
 
 $hints[] = ['Forums', 'ForceGhost', 'Seen someone breaking the rules? Try posting an \'@\' in the chat window with a brief description of the rule breakage if a staff member is online, if not, report the player with evidence supporting this by visiting our forums (limelightgaming.net] and posting under the \'Player Reports\' Sub-Forum.'];
-$hints[] = ['Forums', 'Want to see what\'s been added or changed recently on the server? Head on over to our forums (limelightgaming.net], hover over the \'CityRP2\' tab and click \'Changelogs\' to learn more about these updates!'];
+$hints[] = ['Forums', 'Want to see what\'s been added or changed recently on the server? Head on over to our forums (limelightgaming.net), hover over the \'CityRP2\' tab and click \'Changelogs\' to learn more about these updates!'];
 $hints[] = ['Forums', 'Ben', 'Had an idea for something that we could add or change about the server? Head on over to our forums (limelightgaming.net) and post about it in the \'Suggestions\' Sub-Forum!'];
 $hints[] = ['Forums', 'Project', 'Unable to get in to the server due to crashing or timing out? Head on over to our forums (limelightgaming.net) and click on our \'Help and Support\' Sub-Forum to ask for some help!'];
 $hints[] = ['Forums', 'Montyfatcat', 'Want one of your own tips here? Suggest it on the forums. CityRP -> Suggestions -> Loading Screen Tips'];
@@ -101,7 +102,7 @@ $hints[] = ['Government', 'Overlewd', 'The SWAT team have access to more weaponr
 $hints[] = ['Government', 'Dr Internet', 'The President and Vice-President are both protected by their Secret Service Agents.'];
 $hints[] = ['Government', 'Ninja', 'Want to check the default light and siren binds for your vehicle? Try typing \'!photon\' in your chat window.'];
 $hints[] = ['Government', 'Miss Joley', 'Just become the President? Great! Press F1 and click the \'Laws\' tab to set the laws of the city.'];
-$hints[] = ['Government', 'Miss Joley', 'Need to raise the tax as the President to support your lavish lifestyle or to fund your government? Try typing \'/tax (0-40]\' in the chat window to adjust this to your liking.'];
+$hints[] = ['Government', 'Miss Joley', 'Need to raise the tax as the President to support your lavish lifestyle or to fund your government? Try typing \'/tax (0-40)\' in the chat window to adjust this to your liking.'];
 $hints[] = ['Government', 'Miss Joley', 'Has a serious incident occurred while you\'re President and need everyone to stay indoors for the time being? Type \'/lockdown\' in the chat window to send out a public alert.'];
 $hints[] = ['Government', 'lad', 'As a Secret Service Agent, SWAT Unit, Police Officer, Vice President and even President you can request warrants for searches or arrests on criminals, with the jail time being between 1 to 15 minutes.'];
 $hints[] = ['Government', 'CMR99', 'Someone talking over the radio, but you have something important to say? Use the phrase \'Break Traffic\' to clear up the channel.'];
@@ -136,9 +137,9 @@ $hints[] = ['Fire Department', 'Jen', 'Ran out of foam for your fire extinguishe
 
 
 $hints[] = ['Radio', 'Jen & Cole', 'Did you know the government has its own voice radio? In order to use the radio, use the key you\'ve binded to \'Suit Zoom\' in the keyboard options.'];
-$hints[] = ['Radio', 'Jen & Cole', 'Try typing \'/listen (type]\' in the chat window to change what radio channel you’re currently tuned in to.'];
-$hints[] = ['Radio', 'Jen & Cole', 'Try typing \'/voice (type]\' in the chat window to change which radio channel you\'re transmitting to.'];
-$hints[] = ['Radio', 'Jen & Cole', 'Try typing \'/frequency (80-120]\' in the chat window to change the frequency of your private radio channel.'];
+$hints[] = ['Radio', 'Jen & Cole', 'Try typing \'/listen (type)\' in the chat window to change what radio channel you’re currently tuned in to.'];
+$hints[] = ['Radio', 'Jen & Cole', 'Try typing \'/voice (type)\' in the chat window to change which radio channel you\'re transmitting to.'];
+$hints[] = ['Radio', 'Jen & Cole', 'Try typing \'/frequency (80-120)\' in the chat window to change the frequency of your private radio channel.'];
 
 $hints[] = ['Crime', 'ForceGhost', 'Contraband makes an audible sound when producing money. Keep these out of sight and out of hearing range to avoid getting a knock at the door from the cops.'];
 $hints[] = ['Crime', 'ForceGhost', 'We have a fully functional and in depth meth system! You didn’t hear it from me though...'];
@@ -149,20 +150,21 @@ $hints[] = ['Crime', 'kidairsofters', 'Need to send an anonymous message or thre
 $hints[] = ['Crime', 'Montyfatcat', 'Be careful who you kill, they could be part of a rather violent group...'];
 
 
-$hints[] = ['Clans', 'Jen', 'Want to make a clan? Type \'/clan create (Name]\' in the chat window.'];
-$hints[] = ['Clans', 'Jen', 'Want to join a clan? Type \'/clan accept (Presented Number]\' in the chat window if you\'ve been invited. To invite someone to your clan type \'/clan invite (ID]\' instead.'];
+$hints[] = ['Clans', 'Jen', 'Want to make a clan? Type \'/clan create (Name)\' in the chat window.'];
+$hints[] = ['Clans', 'Jen', 'Want to join a clan? Type \'/clan accept (Presented Number)\' in the chat window if you\'ve been invited. To invite someone to your clan type \'/clan invite (ID]\' instead.'];
 $hints[] = ['Clans', 'Jen', 'Want to leave a clan? Type \'/clan leave\' in the chat window.'];
 $hints[] = ['Clans', 'ForceGhost', 'Did you know we have a clan manager available on our website?'];
 $hints[] = ['Clans', 'ForceGhost', 'You can request a custom clan model and logo prop if you fulfil the requirements listed on our forums!'];
-$hints[] = ['Clans', 'Vadar', 'Make an advert on behalf of your clan by typing \'/cadvert (Message]\' in the chat window.'];
+$hints[] = ['Clans', 'Vadar', 'Make an advert on behalf of your clan by typing \'/cadvert (Message)\' in the chat window.'];
 
 
-$hints[] = ['Money', 'Jen', 'Typing \'/givemoney (Amount]\' in the chat window will give the specified amount to the person you\'re looking at.'];
-$hints[] = ['Money', 'Jen', 'Typing \'/dropmoney (Amount]\' will drop the specified amount on the floor in front of you.'];
+$hints[] = ['Money', 'Jen', 'Typing \'/givemoney (Amount)\' in the chat window will give the specified amount to the person you\'re looking at.'];
+$hints[] = ['Money', 'Jen', 'Typing \'/dropmoney (Amount)\' will drop the specified amount on the floor in front of you.'];
 $hints[] = ['Money', 'Jen', 'Make sure you keep an eye on your account in the bottom left of the screen, money doesn\'t grow on trees you know!'];
 $hints[] = ['Money', 'ForceGhost', 'Did you know? If you hold \'C\' and right click on a player, you can give them specific amounts of money?'];
 $hints[] = ['Money', 'Tom', 'There are many ways of earning money in Evocity, through legal and not so legal means...'];
 $hints[] = ['Money', 'Montyfatcat', 'Want to legally earn some pocket money? Try buying an axe and doing woodcutting.'];
+$hints[] = ['Money', 'Taylor', 'Want to pay your staff a fair wage? Use \'/salary\'.'];
 
 $hints[] = ['Animation', 'Kellekerell', 'Want to wave your hand or perform other gestures? Hold \'C\' and click on \'Gestures\' in the top bar to pick! Alternatively, you can also type \'act (action]\' in the console to perform these too!'];
 $hints[] = ['Animation', 'SickBennyAlex', 'Need to stop an animation you\'re performing quickly? Try typing \'/stopanimation\' in the chat window!'];
