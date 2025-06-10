@@ -131,7 +131,7 @@ $hints[] = ['Housing', 'Cole', 'Want to sell a building you own? You can either 
 $hints[] = ['Housing', 'Cole', 'Want to sell all buildings you own without checking each one out? Type \'/door sellall\' in the chat window to quickly sell all your buildings.'];
 
 
-$hints[] = ['Fire Department', '<em>Unknown</em>', 'Working for the Government? You can purchase the suitable vehicles for this by pressing \'F1\', clicking on \'Market\' and selecting \'Government Vehicles\' in the dropdown menu!'];
+$hints[] = ['Fire Department', 'Taylor', 'Working for the Government? You can purchase the suitable vehicles for this by pressing \'F1\', clicking on \'Market\' and selecting \'Government Vehicles\' in the dropdown menu!'];
 $hints[] = ['Fire Department', 'ForceGhost', 'Ran out of medical supplies? Head over to your government vehicle, look at it and type \'/resupply\' in the chat window to refill your medkit!'];
 $hints[] = ['Fire Department', 'Jen', 'Ran out of foam for your fire extinguisher? Approach your fire engine, look at it and type \'/resupply\' in the chat window. You’ll be back fighting fires in no time!'];
 
