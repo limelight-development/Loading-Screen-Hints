@@ -115,6 +115,7 @@ $hints[] = ['Government', 'Vadar', 'Spotted something illegal? Type \'/911\' in 
 $hints[] = ['Government', 'Cooli', 'Use /pass as President, Vice-President or a Secretary to give people passes.'];
 $hints[] = ['Government', 'Cooli', 'You can search people with their hands raised or those who are restrained by pressing \'R\' with your hands out.'];
 $hints[] = ['Government', 'Zaidplays', 'Want to call out a pursuit easily? Use /pursuit to inform all officers you\'re in one. It also shows them your location.'];
+$hints[] = ['Government', 'Taylor', 'Working for the Government? You can purchase the suitable vehicles for this by pressing \'F1\', clicking on \'Market\' and selecting \'Government Vehicles\' in the dropdown menu!'];
 
 
 $hints[] = ['Locations', 'Cole', 'Not sure where you\'re going or where you are? Try typing \'/map\' in the chat window or go to \'F1 > Map\' to be given a birds-eye view of all available locations.'];
@@ -131,7 +132,6 @@ $hints[] = ['Housing', 'Cole', 'Want to sell a building you own? You can either 
 $hints[] = ['Housing', 'Cole', 'Want to sell all buildings you own without checking each one out? Type \'/door sellall\' in the chat window to quickly sell all your buildings.'];
 
 
-$hints[] = ['Fire Department', 'Taylor', 'Working for the Government? You can purchase the suitable vehicles for this by pressing \'F1\', clicking on \'Market\' and selecting \'Government Vehicles\' in the dropdown menu!'];
 $hints[] = ['Fire Department', 'ForceGhost', 'Ran out of medical supplies? Head over to your government vehicle, look at it and type \'/resupply\' in the chat window to refill your medkit!'];
 $hints[] = ['Fire Department', 'Jen', 'Ran out of foam for your fire extinguisher? Approach your fire engine, look at it and type \'/resupply\' in the chat window. You’ll be back fighting fires in no time!'];
 
